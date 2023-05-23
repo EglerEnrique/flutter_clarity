@@ -34,6 +34,6 @@ android {
     }
 
     dependencies {
-        implementation "com.microsoft.clarity:clarity:1.2.3"
+        implementation "com.microsoft.clarity:clarity:1.2.1-beta1"
     }
 }
